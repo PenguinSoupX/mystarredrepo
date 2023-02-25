@@ -459,3 +459,4 @@ https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-
 https://github.com/Michael24884/TaiYaKiAnime
 https://github.com/zunjae/AnYme
 https://github.com/mukul500/AnimeXStream
+https://github.com/danielgross/whatsapp-gpt
