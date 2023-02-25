@@ -397,7 +397,6 @@ https://github.com/jjk-jacky/kalu
 https://github.com/DoTheEvo/ANGRYsearch
 https://github.com/cboxdoerfer/fsearch
 https://github.com/beemdevelopment/Aegis
-https://github.com/andOTP/andOTP
 https://github.com/signalapp/Signal-Desktop
 https://github.com/Nanolx/NanoDroid
 https://github.com/mgba-emu/mgba
@@ -460,3 +459,4 @@ https://github.com/Michael24884/TaiYaKiAnime
 https://github.com/zunjae/AnYme
 https://github.com/mukul500/AnimeXStream
 https://github.com/danielgross/whatsapp-gpt
+
